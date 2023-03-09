@@ -1,0 +1,13 @@
+com\vuespring\webChat\domain\Chat.class
+com\vuespring\webChat\domain\User.class
+com\vuespring\webChat\dao\ChatRepo.class
+com\vuespring\webChat\dao\UserRepo.class
+com\vuespring\webChat\service\MessageService.class
+com\vuespring\webChat\controllers\UserController.class
+com\vuespring\webChat\exceptions\NotFoundException.class
+com\vuespring\webChat\service\ChatService.class
+com\vuespring\webChat\dao\MessageRepo.class
+com\vuespring\webChat\controllers\ChatController.class
+com\vuespring\webChat\controllers\MessageController.class
+com\vuespring\webChat\service\UserService.class
+com\vuespring\webChat\domain\Message.class

@@ -1,0 +1,13 @@
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\dao\ChatRepo.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\domain\Message.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\service\ChatService.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\domain\User.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\domain\Chat.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\service\UserService.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\dao\UserRepo.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\dao\MessageRepo.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\controllers\ChatController.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\controllers\UserController.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\exceptions\NotFoundException.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\controllers\MessageController.java
+C:\Code\Projects\webChat.v6\src\main\java\com\vuespring\webChat\service\MessageService.java
